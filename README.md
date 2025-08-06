@@ -49,3 +49,5 @@ Bug reports and feature requests for addons should their respective repositories
 [Submission]: ./Documentation/Submission.md
 
 [Logo]: ./icons/AddonManager.svg
+
+test
